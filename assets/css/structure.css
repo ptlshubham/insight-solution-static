@@ -6459,7 +6459,7 @@ html, body {
 	}
 	.mobile-header-mini.mobile-mini-mr-lc #Top_bar .top_bar_right {
 		left: 10px;
-		right: auto;
+		/* right: auto; */
 	}
 	.mobile-header-mini.mobile-mini-ml-ll #Top_bar a.responsive-menu-toggle {
 		left: 10px;
